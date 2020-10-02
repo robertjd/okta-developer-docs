@@ -82,6 +82,7 @@ module.exports = [
         { title: 'ASA Service Users API', link: '/docs/reference/api/asa/service-users/'},
         { title: 'ASA Users API', link: '/docs/reference/api/asa/users/'},
         { title: 'ASA Groups API', link: '/docs/reference/api/asa/groups/'},
+        { title: 'ASA Projects API', link: '/docs/reference/api/asa/projects/'},
         ]
       }
     ]
