@@ -60,6 +60,7 @@ module.exports = [
         { title: 'ASA Teams API', path: '/docs/reference/api/asa/teams/'},
         { title: 'ASA Service Users API', path: '/docs/reference/api/asa/service-users/'},
         { title: 'ASA Users API', path: '/docs/reference/api/asa/users/'},
+        { title: 'ASA Groups API', path: '/docs/reference/api/asa/groups/'},
       ]
     }
   ]
